@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+
+  "name": "Scrolly Dark",
+  "description": "A beautiful custom scrollbar",
+  "version": "0.2.1",
+  "icons": {
+    "128": "icon.png"
+  },
+  "permissions": [
+    "*://*/*"
+  ],
+
+  "content_scripts": [
+      {
+          "matches": ["*://*/*"],
+          "css": ["scrolly.css"]
+      }
+  ]
+}
