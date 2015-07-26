@@ -16,5 +16,5 @@ https://chrome.google.com/webstore/detail/scrolly/emfaieckcngoebaoegbicknffolghn
 
 ### Contributors
 
-  - @Zolmeister
-  - @razgriz94
+  - [Zolmeister](https://github.com/Zolmeister)
+  - [razgriz94](https://github.com/razgriz94)
