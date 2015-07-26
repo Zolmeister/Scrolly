@@ -4,3 +4,17 @@
 
 Chrome extention:
 https://chrome.google.com/webstore/detail/scrolly/emfaieckcngoebaoegbicknffolghnej
+
+### Dark theme
+
+![dark screenshot](./dark/screenshot.png)
+
+### Light theme
+
+![light screenshot](./light/screenshot.png)
+
+
+### Contributors
+
+  - @Zolmeister
+  - @razgriz94
