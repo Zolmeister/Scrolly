@@ -2,7 +2,7 @@
 #### A beautiful custom scrollbar for every page
 ![Scrolly](./dark/icon.png)
 
-Chrome extention:
+Chrome extension:
 https://chrome.google.com/webstore/detail/scrolly/emfaieckcngoebaoegbicknffolghnej
 
 ### Dark theme
