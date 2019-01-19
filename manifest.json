@@ -3,14 +3,14 @@
 
   "name": "Scrolly",
   "description": "A beautiful custom scrollbar",
-  "version": "0.2",
+  "version": "0.3",
   "icons": {
-    "128": "icon.png"  
+    "128": "icon.png"
   },
   "permissions": [
     "*://*/*"
   ],
-    
+
   "content_scripts": [
       {
           "matches": ["*://*/*"],
