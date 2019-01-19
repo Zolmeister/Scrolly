@@ -1,21 +1,21 @@
-::-webkit-scrollbar {
+html::-webkit-scrollbar {
     width: 12px;
     height: 12px;
 }
- 
-::-webkit-scrollbar-track-piece {
+
+html::-webkit-scrollbar-track-piece {
     background: #aaa;
 }
- 
-::-webkit-scrollbar-thumb {
+
+html::-webkit-scrollbar-thumb {
     background: #7a7a7a;
     border-radius: 2px;
 }
 
-::-webkit-scrollbar-corner       {
+html::-webkit-scrollbar-corner       {
     background: #999;
 }
 
-::-webkit-scrollbar-thumb:window-inactive {
+html::-webkit-scrollbar-thumb:window-inactive {
     background: #888;
 }
